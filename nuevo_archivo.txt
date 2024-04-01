@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modificacion
+=======
+Contenido del nuevo archivo modificado
+>>>>>>> nueva_rama
